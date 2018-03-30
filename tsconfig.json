@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "module": "umd",
+    "moduleResolution": "classic",
+    "target": "es6",
+    "noImplicitAny": false,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "noUnusedParameters": false,
+    "noUnusedLocals": false,
+    "skipLibCheck": true,
+    "lib": [
+        "es6",
+        "dom"
+    ]
+  },
+  "awesomeTypescriptLoaderOptions": {
+    "useCache": false,
+    "useBabel": false,
+    "doTypeCheck": false
+  }
+}
